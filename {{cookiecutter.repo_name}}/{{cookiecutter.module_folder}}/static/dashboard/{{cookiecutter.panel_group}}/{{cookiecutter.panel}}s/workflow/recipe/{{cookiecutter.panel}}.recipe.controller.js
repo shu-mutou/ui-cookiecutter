@@ -60,8 +60,7 @@
           type: 'string'
         },
         topping: {
-          title: gettext('Topping'),
-          type: 'string'
+          title: gettext('Topping')
         }
       },
       required: ['base']

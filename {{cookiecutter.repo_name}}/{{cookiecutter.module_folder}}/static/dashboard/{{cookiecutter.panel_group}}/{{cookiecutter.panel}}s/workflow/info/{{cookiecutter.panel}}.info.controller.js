@@ -77,10 +77,7 @@
               },
               {
                 key: 'enabled',
-                type: 'checkbox',
-                titleMap: [
-                  {value: true, name: ''}
-                ]
+                type: 'checkbox'
               }
             ]
           }
